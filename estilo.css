@@ -1,0 +1,36 @@
+#opcoes{
+    position: fixed;
+    height:150px;
+    width: 250px;
+    top: 45%;
+    right: 30%;
+    left: 30%;
+   
+}
+#opcoes2{
+    position: fixed;
+    height:150px;
+    width: 250px;
+    top: 45%;
+    right: 40%;
+    left: 55%;
+   
+}
+
+body{
+    color:white;
+    
+}
+#cadastro{
+    position: fixed;
+    top: 100px;
+    right: 20%;
+    left: 30%;
+    width: 600px;
+    height: 100px;
+     
+}
+.botoes{
+    top: 150px;
+    position: relative;
+}

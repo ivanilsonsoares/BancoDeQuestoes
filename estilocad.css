@@ -1,0 +1,35 @@
+#opcoes{
+    position: fixed;
+    height:150px;
+    width: 250px;
+    top: 45%;
+    right: 30%;
+    left: 30%;
+   
+}
+#opcoes2{
+    position: fixed;
+    height:150px;
+    width: 250px;
+    top: 45%;
+    right: 40%;
+    left: 55%;
+   
+}
+
+body{
+    color:slategrey;
+	background-color: white;
+    
+}
+#cadastro{
+    position: fixed;
+    top: 30%;
+    right: 20%;
+    left: 30%;
+    width: 600px;
+    height: 100px;
+    color: grey;
+     
+}
+

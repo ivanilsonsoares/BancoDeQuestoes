@@ -1,0 +1,17 @@
+#regulamento{
+    font-family: 'Times New Roman', Times, serif;
+    position: fixed;
+    margin: auto 400px;
+    top: 100px;
+    height: auto 800px;
+    text-align: justify;
+}
+p{
+    text-indent: 2em;
+}
+body{
+   
+    background-repeat: no-repeat;
+    width: 100%;
+    height:100%;
+}

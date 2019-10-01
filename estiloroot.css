@@ -1,0 +1,9 @@
+body{
+	background-image: url(imagens/1.png);
+}
+#conteudo{
+	background-color: white;
+	position: absolute;
+	margin: auto 300px;
+	top: auto 100px;
+}

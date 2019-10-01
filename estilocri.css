@@ -1,0 +1,21 @@
+
+#contatos {
+    position: absolute;
+    background-color: black;
+    top: 120px;
+    left: 264px;
+    width: 800px;
+    height: 1080px;
+    border-radius: 5px;
+}
+#contatos div {
+    position: relative;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 700px;
+    height:210px;
+    text-align: center;
+    color: #777777;
+    border: solid #777777;
+    border-radius: 5px;
+}

@@ -1,0 +1,103 @@
+
+
+#divimage2{
+        position: absolute;
+        /*background-color: darkgray;*/
+        height: 240px;
+        width: 700px;
+        top: 290px;
+        left: 120px; 
+        text-align: center;
+    }
+
+    #divform{
+        position: absolute;
+        /*background-color: gray;*/
+        height: 350px;
+        width: 875px;
+        top: 280px;
+        left: 483px;
+    }
+
+    #divcase2{
+        position: absolute;
+        /*background-color: palevioletred;*/
+        height: 345px;
+        width: 120px;
+        top: 0px;
+        left: 70px;
+        text-align: right;
+        font-size: 30px;
+        font-family: "corbel";
+        line-height: 55px;
+    }
+
+    #textnome{
+        position: absolute;
+        font-size: 20px;
+        border-radius: 5px;
+        -moz-border-radius: 4px;
+        background-color: #F8F8FF;
+        height: 40px;
+        width: 420px;
+        left: 120px;
+    }
+
+    #textsenha{
+        position: absolute;
+        font-size: 20px;
+        border-radius: 5px;
+        -moz-border-radius: 4px;
+        background-color: #F8F8FF;
+        height: 40px;
+        width: 420px;
+        left: 120px;
+    }
+    
+     #textemail{
+        position: absolute;
+        font-size: 20px;
+        border-radius: 5px;
+        -moz-border-radius: 4px;
+        background-color: #F8F8FF;
+        height: 40px;
+        width: 420px;
+        left: 120px;
+        
+    }
+     #textdisciplina{
+        position: absolute;
+        font-size: 20px;
+        border-radius: 5px;
+        -moz-border-radius: 4px;
+        background-color: #F8F8FF;
+        height: 40px;
+        width: 400px;
+        left: 140px;
+        top: 170;
+     }
+    #botaolog1{
+        font-size: 25px; 
+        position: absolute;
+        height: 50px;
+        width: 150px;
+        left: 250px;
+        border-radius: 9px;
+        -moz-border-radius: 4px;
+        background-image: url(imagens/cadastrar.png);
+        top: 230px;
+    }
+     #botaolog{
+        font-size: 25px; 
+        position: absolute;
+        height: 45px;
+        width: 103px;
+        left: 250px;
+        border-radius: 9px;
+        -moz-border-radius: 4px;
+        background-image: url(imagens/entrar.png);
+        top: 110px;
+    }
+
+
+
